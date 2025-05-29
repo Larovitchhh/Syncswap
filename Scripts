@@ -1,0 +1,9 @@
+const { ethers } = require("ethers");
+const provider = new ethers.providers.JsonRpcProvider("https://mainnet.era.zksync.io");
+const wallet = new ethers.Wallet("YOUR_PRIVATE_KEY", provider);
+
+async function swapTokens(tokenIn, tokenOut, amount) {
+  // Interact with SyncSwap’s contract (use contract ABI and address from SyncSwap docs)
+  console.log(`Swapping ${amount} of ${tokenIn} for ${tokenOut}`);
+  // Add swap logic here
+}
