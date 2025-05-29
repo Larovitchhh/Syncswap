@@ -1,0 +1,11 @@
+Test scripts or contracts locally using tools like Hardhat or Foundry, configured for zkSync Era.
+
+If building a front-end interface, use frameworks like React (as in other DEX projects) and deploy to GitHub Pages:
+
+bash
+
+npm run build
+npm run deploy
+
+Update package.json with "homepage": "https://your-username.github.io/SyncSwap-Project".
+
