@@ -1,0 +1,7 @@
+Forking SyncSwap Contracts:
+Clone SyncSwap’s core contracts from github.com/syncswap/core-contracts.
+
+Run yarn build to compile contracts for zkSync Era, as per their documentation.
+
+Add your modifications or tools for interacting with these contracts.
+
