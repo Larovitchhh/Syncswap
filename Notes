@@ -1,0 +1,6 @@
+Existing SyncSwap Repositories: SyncSwap has official repositories like syncswap/core-contracts and syncswap/core for smart contracts and scripts. Avoid duplicating their work unless you’re adding unique value (e.g., new tools or integrations).
+
+zkSync Era: Ensure your project is compatible with zkSync’s layer-2 scaling solution, as SyncSwap relies on zkRollups for efficiency.
+
+Disclaimer: Be cautious with sensitive data (e.g., private keys) in scripts, and never commit them to GitHub. Use .env files and add them to .gitignore.
+
