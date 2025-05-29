@@ -1,0 +1,9 @@
+SyncSwap Context: SyncSwap is a DEX on zkSync Era, using zkRollups for low-cost, secure transactions. If your project involves smart contracts, ensure compatibility with zkSync’s infrastructure (e.g., zkEVM Solidity Compiler).
+
+Security: If you’re building tools or contracts, conduct audits to avoid vulnerabilities, as SyncSwap emphasizes security through audited smart contracts.
+
+Community Engagement: Link to SyncSwap’s community (e.g., Discord or Twitter
+) for updates and feedback.
+
+Airdrop Potential: SyncSwap has speculated about a potential “SYNC” token airdrop for early users. You could include scripts to automate testnet/mainnet interactions to increase eligibility.
+
